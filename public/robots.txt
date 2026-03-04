@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://texttools-pro.vercel.app
+
+# Sitemaps
+Sitemap: https://texttools-pro.vercel.app/sitemap.xml
